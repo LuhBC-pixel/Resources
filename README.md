@@ -38,3 +38,9 @@ Hi! Here it gathers various tools, web extensions and vscode extensions.
 - [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) - Lightweight Rest API Client for VS Code
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=mf.vscode-styled-components) - Syntax highlighting for styled-components
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Metrics, insights, and time tracking automatically generated from your programming activity
+
+
+# Web resources:
+## HTML Template:
+- [html5up](https://html5up.net/)
+- [cruip](https://cruip.com/)
