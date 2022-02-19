@@ -44,3 +44,15 @@ Hi! Here it gathers various tools, web extensions and vscode extensions.
 ## HTML Template:
 - [html5up](https://html5up.net/)
 - [cruip](https://cruip.com/)
+
+## Images and vector:
+- [freepik](https://www.freepik.com/)
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Pixabay](https://pixabay.com/)
+- [Rawpixel](https://rawpixel.com/)
+- [Libreshot](https://libreshot.com/)
+- [LottieFiles](https://lottiefiles.com/) - Animation
+- [blush](https://blush.design/)
+- [unDraw](https://undraw.co/)
+- [Ira Design](https://iradesign.io/)
