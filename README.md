@@ -27,7 +27,7 @@ Hi! Here it gathers various tools, web extensions and vscode extensions.
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Highlight web colors in your editor
 - [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - Visual Studio Code extension for CSS Modules
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Support for dotenv file syntax
-- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - 
+- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) -
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools
@@ -39,13 +39,15 @@ Hi! Here it gathers various tools, web extensions and vscode extensions.
 - [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=mf.vscode-styled-components) - Syntax highlighting for styled-components
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Metrics, insights, and time tracking automatically generated from your programming activity
 
-
 # Web resources:
+
 ## HTML Template:
+
 - [html5up](https://html5up.net/)
 - [cruip](https://cruip.com/)
 
 ## Images and vector:
+
 - [freepik](https://www.freepik.com/)
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
@@ -56,3 +58,19 @@ Hi! Here it gathers various tools, web extensions and vscode extensions.
 - [blush](https://blush.design/)
 - [unDraw](https://undraw.co/)
 - [Ira Design](https://iradesign.io/)
+
+## Icons and favicon:
+
+- [Icon Archive - Search 735,802 free icons, desktop icons, download icons, social icons, xp icons, vista icons](https://iconarchive.com/)
+- [favicon.ico Generator](https://www.favicon.cc/) - Generate favicon.ico
+- [Favicon.io - The Ultimate Favicon Generator (Free)](https://favicon.io/)
+- [Font Awesome](https://fontawesome.com/)
+- [Ícones, ilustrações de clipart, fotos e músicas gratuitos](https://icons8.com.br/)
+- [iconmonstr - Free simple icons for your next project](https://iconmonstr.com/)
+- [Ícones e Adesivos Grátis - Milhões de recursos para descarregar](https://www.flaticon.com/br/)
+- [React Icons](https://react-icons.github.io/react-icons)
+- [Noun Project: Free Icons & Stock Photos for Everything](https://thenounproject.com/)
+- [Roundicons](https://roundicons.com/vector-free-icons/)
+- [Free Icon, SVG Icon, Free Vector Icons Download,Icon Free, Free Svg Icons, Monochrome Icons](https://freeicons.io/)
+- [Ícones gratuitos SVG, PNG, ICO ou ICNS](https://icon-icons.com/pt/)
+- [Free Icons and Icon packs | +500,000 icons to download - Findicons.com](https://findicons.com/)
