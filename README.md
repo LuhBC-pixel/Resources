@@ -74,3 +74,23 @@ Hi! Here it gathers various tools, web extensions and vscode extensions.
 - [Free Icon, SVG Icon, Free Vector Icons Download,Icon Free, Free Svg Icons, Monochrome Icons](https://freeicons.io/)
 - [Ícones gratuitos SVG, PNG, ICO ou ICNS](https://icon-icons.com/pt/)
 - [Free Icons and Icon packs | +500,000 icons to download - Findicons.com](https://findicons.com/)
+
+## Gerator CSS:
+
+- [Shape Divider App](https://www.shapedivider.app/)
+- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
+- [Neumorphism/Soft UI CSS shadow generator](https://neumorphism.io/#e0e0e0)
+- [CSS buttons, checkboxes, and more!](https://cssbuttons.io/)
+- [Flowrift](https://flowrift.com/c/banner)
+- [Box Shadows](https://box-shadow.dev/)
+
+## Colors:
+
+- [Coolors - The super fast color schemes generator!](https://coolors.co/)
+- [Gradient Backgrounds - 🌈 The Best Gradient Sites All in One Place](https://ssgradient.io/gradient-backgrounds/)
+- [uiGradients - Beautiful colored gradients](https://uigradients.com/#Telegram)
+- [BrandColors](https://brandcolors.net/)
+- [👍 Color Picker online | HEX Color Picker | HTML Color Picker](https://magecolorpicker.com/)
+- [Free Gradients Collection by itmeo.com](https://webgradients.com/)
+- [Gradient Hunt - Beautiful Color Gradients](https://gradienthunt.com/)
+- [Flat UI Colors 2 - 14 Color Palettes, 280 colors 🎨](https://flatuicolors.com/
