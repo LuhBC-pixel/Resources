@@ -93,4 +93,4 @@ Hi! Here it gathers various tools, web extensions and vscode extensions.
 - [👍 Color Picker online | HEX Color Picker | HTML Color Picker](https://magecolorpicker.com/)
 - [Free Gradients Collection by itmeo.com](https://webgradients.com/)
 - [Gradient Hunt - Beautiful Color Gradients](https://gradienthunt.com/)
-- [Flat UI Colors 2 - 14 Color Palettes, 280 colors 🎨](https://flatuicolors.com/
+- [Flat UI Colors 2 - 14 Color Palettes, 280 colors 🎨](https://flatuicolors.com/)
