@@ -94,3 +94,11 @@ Hi! Here it gathers various tools, web extensions and vscode extensions.
 - [Free Gradients Collection by itmeo.com](https://webgradients.com/)
 - [Gradient Hunt - Beautiful Color Gradients](https://gradienthunt.com/)
 - [Flat UI Colors 2 - 14 Color Palettes, 280 colors 🎨](https://flatuicolors.com/)
+
+## Animation:
+- [Animate.css | A cross-browser library of CSS animations.](https://animate.style/)
+- [anime.js](https://animejs.com)
+- [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
+- [15 awesome CSS animation libraries you need to know.](https://devdojo.com/abhiraj/15-awesome-css-animation-libraries-you-need-to-know)
+- [CSShake](http://elrumordelaluz.github.io/csshake/)
+- [Animista - CSS Animations on Demand](https://animista.net/)
