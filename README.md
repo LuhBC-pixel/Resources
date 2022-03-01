@@ -107,3 +107,12 @@ Hi! Here it gathers various tools, web extensions and vscode extensions.
 ## Backgrounds:
 
 - [Cool Backgrounds](https://coolbackgrounds.io/)
+
+
+## Wireframes:
+
+- [whimsical](https://whimsical.com/)
+- [wireframe.cc](https://wireframe.cc/)
+- [lucidchart](https://lucidchart.com/)
+- [mockflow](https://mockflow.com/)
+- [diagrams](https://www.diagrams.net/) - database diagrams
